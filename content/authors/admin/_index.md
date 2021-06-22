@@ -6,7 +6,7 @@ title: Nasim Tavassoli
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Child Studies
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -47,7 +47,7 @@ social:
   link: https://scholar.google.ca/citations?user=P-TmGsAAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/nasim-tavassoli
+  link: https://www.linkedin.com/nasim-tavassoli-5520b914a/
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Nasim-Tavassoli
