@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Pro-social Behavior
+- Pro-Social Behavior
+- Pro-Social Behavior
 
 # Education to show in About widget
 education:
@@ -48,7 +48,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/nasim-tavassoli
-  - icon: researchgate
+- icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Nasim-Tavassoli
 
@@ -66,8 +66,5 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+Nasim is an excellent researcher at Concordia University.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
