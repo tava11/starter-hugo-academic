@@ -65,6 +65,16 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-Nasim is an excellent researcher at Concordia University.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+\
+\
+\
+\
+Nasim is an excellent researcher at Concordia University
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+\
+\
+\
+&emsp;
+
+
