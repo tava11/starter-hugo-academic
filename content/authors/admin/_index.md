@@ -11,7 +11,7 @@ role: PhD Candidate in Child Studies
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Concordia University
-  url: https://www.researchgate.net/profile/Nasim-Tavassoli
+  url: https://www.concordia.ca/artsci/education/students/graduate-students.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'nasim.tavassoli@gmail.com'
   icon_pack: fas
   link: https://scholar.google.ca/citations?user=P-TmGsAAAAAJ&hl=en
 - icon: linkedin
