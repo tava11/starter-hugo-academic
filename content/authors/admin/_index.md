@@ -41,10 +41,7 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: fas
   link: 'nasim.tavassoli@gmail.com'
-  icon_pack: fas
-  link: https://scholar.google.ca/citations?user=P-TmGsAAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/nasim-tavassoli-5520b914a/
