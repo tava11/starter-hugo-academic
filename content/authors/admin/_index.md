@@ -11,7 +11,7 @@ role: PhD Candidate in Child Studies
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Concordia University
-  url: https://www.concordia.ca/artsci/education/students/graduate-students.html
+  url: https://www.concordia.ca/artsci/education/students/graduate-students/profiles.html#tavassoli
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
